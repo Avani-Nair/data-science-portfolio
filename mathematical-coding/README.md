@@ -6,25 +6,46 @@
 
 ## Overview
 
-This project was completed as part of my first-year Mathematical Coding coursework. It demonstrates the use of Python for mathematical computing and data analysis.
+This coursework was completed as part of my first-year Mathematical Coding module. It demonstrates the use of Python for mathematical computing, data analysis and statistical modelling.
 
-## What I worked on
+## Coursework
+
+### Mathematical Programming
 
 - Matrix operations using NumPy
 - Matrix inverse and determinants
 - Eigenvalues and eigenvectors
 - Matrix diagonalisation
-- Data analysis using Pandas
-- Data visualisation using Matplotlib
-- Linear regression using SciPy
-- Interpretation of p-values and R²
+- Functions, loops and input validation
 
-## Data Analysis
+**Code:** `digit_swap_calculator.py` and `matrix_operations.py`
+
+### Data Analysis
 
 I analysed a pastry dataset to investigate relationships between variables including sweetness, moisture and pastry ratings.
 
-The analysis included descriptive statistics, scatter plots and linear regression models.
+The analysis included:
 
-## What I learned
+- Descriptive statistics
+- Data visualisation using Matplotlib
+- Correlation analysis
+- Linear regression
+- Interpretation of p-values and R²
 
-This coursework helped me develop my Python programming skills and understand how mathematical and statistical methods can be applied to a dataset.
+**Code:** `pastry_data_analysis.py`
+
+## Skills Demonstrated
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Statsmodels
+- Statistical analysis
+- Data visualisation
+- Linear regression
+- Mathematical programming
+
+## What I Learned
+
+This coursework helped me develop my Python programming skills and understand how mathematical and statistical methods can be applied to real datasets.
